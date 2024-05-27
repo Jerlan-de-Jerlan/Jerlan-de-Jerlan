@@ -4,7 +4,9 @@ Meu nome jerlan de Jesus dos Santos
 
 
 -Estou estudante no Alura
+
 -estou me desenvolvendo na linguagem JavaScript
+
 -Estou utilizando este espaço para organizar meus projetos e compartilha os meus projetos Já desenvolvidos
 
 
